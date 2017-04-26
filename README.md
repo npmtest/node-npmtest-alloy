@@ -1,6 +1,6 @@
 # npmtest-alloy
 
-#### test coverage for  [alloy (v1.9.11)](https://github.com/appcelerator/alloy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-alloy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-alloy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-alloy.svg)](https://travis-ci.org/npmtest/node-npmtest-alloy)
+#### basic test coverage for  [alloy (v1.9.11)](https://github.com/appcelerator/alloy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-alloy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-alloy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-alloy.svg)](https://travis-ci.org/npmtest/node-npmtest-alloy)
 
 #### Appcelerator Titanium MVC Framework
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-alloy/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-alloy/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-alloy/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-alloy/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-alloy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-alloy/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-alloy/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-alloy/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-alloy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-alloy/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-alloy/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-alloy/build/coverage.html/index.html)
 
